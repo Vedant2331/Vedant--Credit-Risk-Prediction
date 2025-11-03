@@ -45,29 +45,25 @@ python train_model.py
 3. Use the web app
 Launch the interactive prediction tool:
 
-text
-streamlit run app.py
+### text
+- streamlit run app.py
 Open the link shown in your terminal or browser, and input the details of a loan applicant to see their default risk score instantly.
 
-Files in the Project
-train_model.py: Prepares data, trains the model, and saves it.
-
-app.py: The web app for easy risk prediction.
-
-credit_risk_data.csv: Sample dataset to train and test the model.
-
-xgb_model.pkl: The trained machine learning model.
-
-scaler.pkl: Data preprocessing tool to standardize inputs.
-
-requirements.txt: List of all needed packages to run the project.
+## Files in the Project
+- train_model.py: Prepares data, trains the model, and saves it.
+- app.py: The web app for easy risk prediction.
+- credit_risk_data.csv: Sample dataset to train and test the model.
+- xgb_model.pkl: The trained machine learning model.
+- scaler.pkl: Data preprocessing tool to standardize inputs.
+- requirements.txt: List of all needed packages to run the project.
 
 ## About the Data
 Contains information about loan applicants such as:
-Credit Score
-Income
-Employment Length
-Loan Amount
-Other personal details
+- Credit Score
+- Duration
+- Risk
+- Check Amount
+- Saving Accounts
+- Other Details
 
-Whether they defaulted or not
+
