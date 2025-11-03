@@ -24,7 +24,7 @@ We used XGBoost, a popular machine learning algorithm, for accurate predictions.
 ## How to Use the Project
 1. Set up your environment
 - Download the code from GitHub:
-#### (https://github.com/Vedant2331/Vedant--Credit-Risk-Prediction/blob/main/code.ipynb)
+ < href ="https://github.com/Vedant2331/Vedant--Credit-Risk-Prediction/blob/main/code.ipynb"> Code link</a>
 
 - Create a Python environment (optional):
 #### python -m venv env
@@ -56,4 +56,5 @@ Contains information about loan applicants such as:
 - Saving Accounts
 - Other Details
 
-
+## Screenshots
+- <a href= 
