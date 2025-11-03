@@ -57,5 +57,8 @@ Contains information about loan applicants such as:
 - Other Details
 
 ## Screenshots
-- <a href= https://github.com/Vedant2331/Vedant--Credit-Risk-Prediction/blob/main/Screenshot%202025-11-03%20225718.png></a>
-- <a href= https://github.com/Vedant2331/Vedant--Credit-Risk-Prediction/blob/main/Screenshot%202025-11-03%20225741.png></a>
+- <img width="1095" height="888" alt="Screenshot 2025-11-03 225718" src="https://github.com/user-attachments/assets/e2a654ea-8b03-4bcd-9b50-a41c986f40e9" />
+- <img width="1030" height="716" alt="Screenshot 2025-11-03 225741" src="https://github.com/user-attachments/assets/c5c39353-e94d-4c9b-9141-d25c8b41c056" />
+
+
+
