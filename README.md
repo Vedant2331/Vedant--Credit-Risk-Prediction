@@ -1,1 +1,1 @@
-# Vedant--Credit-Risk-Prediction
+# Vedant-Credit-Risk-Prediction
