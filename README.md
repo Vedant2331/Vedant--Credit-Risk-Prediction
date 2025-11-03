@@ -24,8 +24,7 @@ We used XGBoost, a popular machine learning algorithm, for accurate predictions.
 ## How to Use the Project
 ### 1. Set up your environment
 Download the code from GitHub:
-#### git clone https://github.com/yourusername/credit-risk-prediction.git
-cd credit-risk-prediction
+#### (https://github.com/Vedant2331/Vedant--Credit-Risk-Prediction/blob/main/code.ipynb)
 
 Create a Python environment (optional):
 #### python -m venv env
