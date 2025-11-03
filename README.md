@@ -22,22 +22,22 @@ We used XGBoost, a popular machine learning algorithm, for accurate predictions.
 - Streamlit (interactive web app)
 
 ## How to Use the Project
-### 1. Set up your environment
-Download the code from GitHub:
+1. Set up your environment
+- Download the code from GitHub:
 #### (https://github.com/Vedant2331/Vedant--Credit-Risk-Prediction/blob/main/code.ipynb)
 
-Create a Python environment (optional):
+- Create a Python environment (optional):
 #### python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
-Install the required packages:
+- Install the required packages:
 #### pip install -r requirements.txt
 2. Train the model
-Run this script to prepare data, train the model, and save it:
+- Run this script to prepare data, train the model, and save it:
 #### python train_model.py
 3. Use the web app
-Launch the interactive prediction tool:
+- Launch the interactive prediction tool:
 #### streamlit run app.py
-Open the link shown in your terminal or browser, and input the details of a loan applicant to see their default risk score instantly.
+- Open the link shown in your terminal or browser, and input the details of a loan applicant to see their default risk score instantly.
 
 ## Files in the Project
 - train_model.py: Prepares data, trains the model, and saves it.
