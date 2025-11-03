@@ -26,6 +26,7 @@ We used XGBoost, a popular machine learning algorithm, for accurate predictions.
 Download the code from GitHub:
 #### git clone https://github.com/yourusername/credit-risk-prediction.git
 cd credit-risk-prediction
+
 Create a Python environment (optional):
 #### python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
