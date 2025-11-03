@@ -22,31 +22,21 @@ We used XGBoost, a popular machine learning algorithm, for accurate predictions.
 - Streamlit (interactive web app)
 
 ## How to Use the Project
-1. Set up your environment
+### 1. Set up your environment
 Download the code from GitHub:
-
-text
-git clone https://github.com/yourusername/credit-risk-prediction.git
+#### git clone https://github.com/yourusername/credit-risk-prediction.git
 cd credit-risk-prediction
 Create a Python environment (optional):
-
-text
-python -m venv env
+#### python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 Install the required packages:
-
-text
-pip install -r requirements.txt
+#### pip install -r requirements.txt
 2. Train the model
 Run this script to prepare data, train the model, and save it:
-
-text
-python train_model.py
+#### python train_model.py
 3. Use the web app
 Launch the interactive prediction tool:
-
-### text
-- streamlit run app.py
+#### streamlit run app.py
 Open the link shown in your terminal or browser, and input the details of a loan applicant to see their default risk score instantly.
 
 ## Files in the Project
